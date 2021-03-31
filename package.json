@@ -1,0 +1,28 @@
+{
+  "name": "angela-davis",
+  "version": "1.0.0",
+  "description": "DW2 Projeto",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Trabalhos-IFMS/angela-davis.git"
+  },
+  "keywords": [
+    "author",
+    "literatura",
+    "ifms",
+    "ifms",
+    "cg",
+    "desenvolvimento",
+    "web"
+  ],
+  "author": "Exodo Jaffar e João Paes",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/Trabalhos-IFMS/angela-davis/issues"
+  },
+  "homepage": "https://github.com/Trabalhos-IFMS/angela-davis#readme"
+}
